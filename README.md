@@ -39,7 +39,8 @@ API berbasis **FastAPI** dan **YOLOv8** untuk mendeteksi hama dan penyakit tanam
 └── README.md
 ```
 
-> ⚠️ **Catatan:** File `best.pt` **tidak disertakan** di repository ini karena ukurannya besar. Unduh model secara terpisah (lihat bagian *Download Model* di bawah).
+> ⚠️ **Catatan:** File `best.pt` **tidak disertakan** di repository ini karena ukurannya besar. Unduh model secara terpisah ([lihat bagian *Download Model* di bawah]
+> (https://drive.google.com/file/d/1_juVGX6yls2Bop-Kf-XdyTd0Yl0lmYMH/view?usp=sharing)).
 
 ---
 
