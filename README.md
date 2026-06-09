@@ -85,7 +85,7 @@ Salin file `best.pt` ke direktori root proyek (sejajar dengan `main.py`):
 ### 5. Jalankan Server
 
 ```bash
-uvicorn main:app --reload
+uvicorn main:app --reload --host 0.0.0.0 --port 5000                                                                                        
 ```
 
 Server akan berjalan di: `http://127.0.0.1:8000`
